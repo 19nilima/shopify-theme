@@ -1,0 +1,14 @@
+<div class="frequently-bought-together">
+  <h2>Frequently Bought Together</h2>
+  <ul>
+    {% for product in product.related_products %}
+      <li>
+        <a href="{{ product.url }}">
+          <img src="{{ product.featured_image.src }}" alt="{{ product.title }}">
+          <p>{{ product.title }}</p>
+          <span>{{ product.price | money }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
