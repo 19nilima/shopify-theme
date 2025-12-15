@@ -1,8 +1,8 @@
 /* Color custom properties */
-.announcement-bar.color-background-1.gradient {
-    background: antiquewhite;
+.link--text, .header__menu-item, .header__active-menu-item, .header__icon{
+    color: #264463 !important;
+    font-weight: bold;
 }
-
 footer.footer.color-background-1.gradient.section-footer-padding {
     background: antiquewhite;
 }
@@ -10,9 +10,16 @@ footer.footer.color-background-1.gradient.section-footer-padding {
 .color-background-1 {
   --color-foreground: var(--color-base-text);
   --color-background: var(--color-base-background-1);
-  --gradient-background: var(--gradient-base-background-1);
+  --gradient-background: var(--gradient-base-background-1); 
 }
-
+.product__title h1 {
+    font-size: 22px !important;
+}
+.badge {
+    border: 1px solid #264463 !important;
+    background-color: rgb(38 68 99) !important;
+    border-color: rgb(38 68 99) !important;
+}
 .color-background-2 {
   --color-foreground: var(--color-base-text);
   --color-background: var(--color-base-background-2);
