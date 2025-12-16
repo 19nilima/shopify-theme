@@ -12,7 +12,7 @@
     "colors_solid_button_labels": "#ffffff",
     "colors_accent_1": "#264463",
     "gradient_accent_1": "",
-    "colors_accent_2": "#334fb4",
+    "colors_accent_2": "#e6f5f8",
     "gradient_accent_2": "",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
@@ -157,8 +157,8 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
-          "logo": "shopify://shop_images/nklogo.jpg",
+          "color_scheme": "accent-2",
+          "logo": "shopify://shop_images/nklogo-removebg-preview.png",
           "logo_width": 90,
           "logo_position": "middle-left",
           "menu": "main-menu",
