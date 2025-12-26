@@ -15,11 +15,11 @@
         "slide_G7fM4n": {
           "type": "slide",
           "settings": {
-            "heading": "",
+            "heading": "Timeless Style, Everyday Elegance",
             "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
+            "subheading": "Discover beautifully crafted products designed to elevate your everyday look with simplicity and grace.",
+            "button_label": "Shop Now",
+            "link": "shopify://collections/all",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
