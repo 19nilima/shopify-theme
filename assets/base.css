@@ -1,5 +1,5 @@
 /* Color custom properties */
-.link--text, .header__menu-item, .header__active-menu-item, .header__icon{
+header .link--text, .header__menu-item, .header__active-menu-item, .header__icon{
     color: #264463 !important;
     font-weight: bold;
 }
