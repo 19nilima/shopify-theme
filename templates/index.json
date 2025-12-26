@@ -64,6 +64,47 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "collection_list_7GxppK": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_mz3nFd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "best-sellers"
+          }
+        },
+        "featured_collection_ynwHwT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_QF6nEw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_mz3nFd",
+        "featured_collection_ynwHwT",
+        "featured_collection_QF6nEw"
+      ],
+      "name": "t:sections.collection-list.presets.name",
+      "settings": {
+        "title": "Our Collections",
+        "heading_size": "h2",
+        "image_ratio": "portrait",
+        "columns_desktop": 4,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -229,6 +270,7 @@
   },
   "order": [
     "slideshow_NxcYLk",
+    "collection_list_7GxppK",
     "rich_text",
     "featured_collection",
     "collage",
