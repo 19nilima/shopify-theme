@@ -32,11 +32,11 @@
         "slide_QR7QQ4": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
+            "heading": "About Our Brand",
             "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
+            "subheading": "We believe that great style lies in simplicity",
+            "button_label": "Shop Now",
+            "link": "shopify://collections/all",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": true,
