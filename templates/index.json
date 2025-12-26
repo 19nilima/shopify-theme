@@ -84,12 +84,19 @@
           "settings": {
             "collection": "frontpage"
           }
+        },
+        "featured_collection_JzYkai": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "new-in-trending"
+          }
         }
       },
       "block_order": [
         "featured_collection_mz3nFd",
         "featured_collection_ynwHwT",
-        "featured_collection_QF6nEw"
+        "featured_collection_QF6nEw",
+        "featured_collection_JzYkai"
       ],
       "name": "t:sections.collection-list.presets.name",
       "settings": {
