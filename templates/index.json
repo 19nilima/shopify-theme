@@ -82,7 +82,7 @@
         "featured_collection_QF6nEw": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "frontpage"
           }
         }
       },
