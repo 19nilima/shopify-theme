@@ -191,8 +191,8 @@
           "footer-2": {
             "type": "text",
             "settings": {
-              "heading": "Our mission",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
+              "heading": "Contact Information",
+              "subtext": "<p>1021 N Market PlazaPueblo West,Colorado 81007 United States</p><p>✉ <a href=\"mailto:support@soulgives.org\">support@soulgives.org<br/></a>☏ <a href=\"tel:7207916164\">720-791-6164</a></p>"
             }
           }
         },
