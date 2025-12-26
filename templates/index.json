@@ -138,11 +138,77 @@
         "padding_top": 28,
         "padding_bottom": 36
       }
+    },
+    "1766732635cd11c352": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_472ef5d_nXkR4p": {
+          "type": "ai_gen_block_472ef5d",
+          "settings": {
+            "title": "What Our Customers Say",
+            "subtitle": "Don't just take our word for it",
+            "title_size": 36,
+            "subtitle_size": 18,
+            "background_color": "#f9f9f9",
+            "title_color": "#121212",
+            "subtitle_color": "#666666",
+            "card_background": "#ffffff",
+            "quote_color": "#333333",
+            "star_color": "#ffc107",
+            "author_name_color": "#121212",
+            "author_title_color": "#666666",
+            "avatar_bg_color": "#264463",
+            "avatar_text_color": "#ffffff",
+            "card_border_radius": 10,
+            "button_bg_color": "#264463",
+            "button_hover_bg_color": "#1a2f45",
+            "button_icon_color": "#ffffff",
+            "dot_color": "#cccccc",
+            "dot_active_color": "#264463",
+            "testimonial_1_enabled": true,
+            "testimonial_1_quote": "This product exceeded my expectations! The quality is outstanding and the customer service was exceptional. Highly recommend to anyone looking for premium products.",
+            "testimonial_1_name": "Sarah Johnson",
+            "testimonial_1_title": "Verified Buyer",
+            "testimonial_1_rating": 5,
+            "testimonial_2_enabled": true,
+            "testimonial_2_quote": "I've been a customer for over a year now and I'm consistently impressed. Fast shipping, great prices, and the products always arrive in perfect condition.",
+            "testimonial_2_name": "Michael Chen",
+            "testimonial_2_title": "Loyal Customer",
+            "testimonial_2_rating": 5,
+            "testimonial_3_enabled": true,
+            "testimonial_3_quote": "Absolutely love my purchase! The attention to detail is remarkable and it's clear that quality is a top priority. Will definitely be ordering again soon.",
+            "testimonial_3_name": "Emily Rodriguez",
+            "testimonial_3_title": "Happy Customer",
+            "testimonial_3_rating": 5,
+            "testimonial_4_enabled": true,
+            "testimonial_4_quote": "Best shopping experience I've had online. The website is easy to navigate, checkout was smooth, and my order arrived earlier than expected. Five stars!",
+            "testimonial_4_name": "David Thompson",
+            "testimonial_4_title": "Satisfied Customer",
+            "testimonial_4_rating": 5,
+            "testimonial_5_enabled": true,
+            "testimonial_5_quote": "I was skeptical at first, but this completely changed my mind. The product quality is top-notch and the value for money is unbeatable. Highly recommended!",
+            "testimonial_5_name": "Jessica Martinez",
+            "testimonial_5_title": "First-time Buyer",
+            "testimonial_5_rating": 4,
+            "testimonial_6_enabled": true,
+            "testimonial_6_quote": "Outstanding service from start to finish. The team went above and beyond to ensure I was completely satisfied. This is now my go-to store!",
+            "testimonial_6_name": "Robert Anderson",
+            "testimonial_6_title": "Regular Customer",
+            "testimonial_6_rating": 5
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_472ef5d_nXkR4p"
+      ],
+      "settings": {}
     }
   },
   "order": [
     "slideshow_NxcYLk",
     "collection_list_7GxppK",
-    "featured_collection"
+    "featured_collection",
+    "1766732635cd11c352"
   ]
 }
