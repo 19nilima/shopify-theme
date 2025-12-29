@@ -254,6 +254,9 @@
         "column_9Rc6eh",
         "column_FzgmJA"
       ],
+      "custom_css": [
+        "img {object-fit: contain !important; width: 50% !important;}"
+      ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
