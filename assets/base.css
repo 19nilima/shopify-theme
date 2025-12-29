@@ -9,6 +9,9 @@ footer.footer.color-background-1.gradient.section-footer-padding {
 .card .icon-wrap {
     display: none;
 }
+h3.card__heading {
+    color: #264463;
+}
 :root,
 .color-background-1 {
   --color-foreground: var(--color-base-text);
