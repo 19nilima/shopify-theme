@@ -1,16 +1,10 @@
 /* Color custom properties */
-header .link--text, .header__menu-item, .header__active-menu-item, .header__icon{
+.link--text, .header__menu-item, .header__active-menu-item, .header__icon{
     color: #264463 !important;
     font-weight: bold;
 }
 footer.footer.color-background-1.gradient.section-footer-padding {
     background: antiquewhite;
-}
-.card .icon-wrap {
-    display: none;
-}
-h3.card__heading {
-    color: #264463;
 }
 :root,
 .color-background-1 {

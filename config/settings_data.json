@@ -10,9 +10,9 @@
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#e6f5f8",
+    "colors_accent_1": "#121212",
     "gradient_accent_1": "",
-    "colors_accent_2": "#264463",
+    "colors_accent_2": "#334fb4",
     "gradient_accent_2": "",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
@@ -49,21 +49,21 @@
     "inputs_shadow_horizontal_offset": 0,
     "inputs_shadow_vertical_offset": 4,
     "inputs_shadow_blur": 5,
-    "card_style": "card",
-    "card_image_padding": 10,
-    "card_text_alignment": "center",
+    "card_style": "standard",
+    "card_image_padding": 0,
+    "card_text_alignment": "left",
     "card_color_scheme": "background-2",
-    "card_border_thickness": 2,
+    "card_border_thickness": 0,
     "card_border_opacity": 10,
-    "card_corner_radius": 10,
+    "card_corner_radius": 0,
     "card_shadow_opacity": 0,
     "card_shadow_horizontal_offset": 0,
     "card_shadow_vertical_offset": 4,
     "card_shadow_blur": 5,
-    "collection_card_style": "card",
+    "collection_card_style": "standard",
     "collection_card_image_padding": 0,
-    "collection_card_text_alignment": "center",
-    "collection_card_color_scheme": "accent-1",
+    "collection_card_text_alignment": "left",
+    "collection_card_color_scheme": "background-2",
     "collection_card_border_thickness": 0,
     "collection_card_border_opacity": 10,
     "collection_card_corner_radius": 0,
@@ -144,7 +144,7 @@
             "settings": {
               "text": "Welcome to our store",
               "text_alignment": "center",
-              "color_scheme": "accent-2",
+              "color_scheme": "background-1",
               "link": ""
             }
           }
@@ -157,9 +157,9 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "accent-1",
-          "logo": "shopify://shop_images/nklogo-removebg-preview.png",
-          "logo_width": 100,
+          "color_scheme": "background-1",
+          "logo": "shopify://shop_images/nklogo.jpg",
+          "logo_width": 90,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
@@ -167,20 +167,13 @@
           "enable_sticky_header": true,
           "mobile_logo_position": "center",
           "margin_bottom": 0,
-          "padding_top": 0,
-          "padding_bottom": 0
+          "padding_top": 20,
+          "padding_bottom": 20
         }
       },
       "footer": {
         "type": "footer",
         "blocks": {
-          "link_list_Q6hNh6": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Information",
-              "menu": "main-menu"
-            }
-          },
           "footer-0": {
             "type": "link_list",
             "settings": {
@@ -188,28 +181,35 @@
               "menu": "footer"
             }
           },
+          "footer-1": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Info",
+              "menu": "footer"
+            }
+          },
           "footer-2": {
             "type": "text",
             "settings": {
-              "heading": "Contact Information",
-              "subtext": "<p>1021 N Market PlazaPueblo West,Colorado 81007 United States</p><p>✉ <a href=\"mailto:support@soulgives.org\">support@soulgives.org<br/></a>☏ <a href=\"tel:7207916164\">720-791-6164</a></p>"
+              "heading": "Our mission",
+              "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
             }
           }
         },
         "block_order": [
-          "link_list_Q6hNh6",
           "footer-0",
+          "footer-1",
           "footer-2"
         ],
         "settings": {
-          "color_scheme": "accent-2",
-          "newsletter_enable": false,
+          "color_scheme": "background-1",
+          "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
           "show_social": true,
-          "enable_country_selector": true,
-          "enable_language_selector": true,
+          "enable_country_selector": false,
+          "enable_language_selector": false,
           "payment_enable": true,
-          "margin_top": 0,
+          "margin_top": 48,
           "padding_top": 36,
           "padding_bottom": 36
         }
