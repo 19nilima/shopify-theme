@@ -211,8 +211,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Vector_4.svg",
-            "title": "",
-            "text": "",
+            "title": "Free Shipping",
+            "text": "<p>Order Value over $100.00</p>",
             "link_label": "",
             "link": ""
           }
@@ -221,8 +221,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Vector_5.svg",
-            "title": "",
-            "text": "",
+            "title": "24/7 Support",
+            "text": "<p>We're here whenever you need us</p>",
             "link_label": "",
             "link": ""
           }
@@ -231,8 +231,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Group_990_1_1.svg",
-            "title": "",
-            "text": "",
+            "title": "Secure Payment",
+            "text": "<p>100% safe and encrypted checkout</p>",
             "link_label": "",
             "link": ""
           }
@@ -241,8 +241,8 @@
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/Group_995.svg",
-            "title": "",
-            "text": "",
+            "title": "Easy Returns",
+            "text": "<p>Free 7-day return policy</p>",
             "link_label": "",
             "link": ""
           }
