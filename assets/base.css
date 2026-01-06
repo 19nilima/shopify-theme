@@ -1,10 +1,22 @@
 /* Color custom properties */
-.link--text, .header__menu-item, .header__active-menu-item, .header__icon{
+header .link--text, .header__menu-item, .header__active-menu-item, .header__icon{
     color: #264463 !important;
     font-weight: bold;
 }
 footer.footer.color-background-1.gradient.section-footer-padding {
     background: antiquewhite;
+}
+.card .icon-wrap {
+    display: none;
+}
+.shopify-payment-button__button--unbranded, .button, .shopify-challenge__button, .customer button {
+    color: rgb(0 0 0) !important;
+}
+h3.card__heading {
+    color: #264463;
+}
+.frequently-bought-products-section {
+    display: none !important;
 }
 :root,
 .color-background-1 {
