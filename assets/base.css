@@ -18,6 +18,11 @@ h3.card__heading {
 .frequently-bought-products-section {
     display: none !important;
 }
+.product-extra-description {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
 :root,
 .color-background-1 {
   --color-foreground: var(--color-base-text);
